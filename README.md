@@ -39,6 +39,7 @@ npm install
 ```
 
 **3. Environment Variables**
+
 Create a .env file in the server directory and add the following variables:
 
 ```bash
