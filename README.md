@@ -65,7 +65,7 @@ Start the Server:
 ```bash
 cd server
 npm run dev
-
+```
 Start the Client (in a new terminal):
 ```bash
 cd client
