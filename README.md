@@ -60,6 +60,7 @@ WEBHOOK_ENDPOINT_SECRET=your_stripe_webhook_secret
 ```
 
 **4. Run the Application**
+
 Start the Server:
 
 ```bash
