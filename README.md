@@ -19,13 +19,13 @@ UpSkillify is a modern Learning Management System (LMS) built with the MERN stac
 
 ##  Setup Instructions
 
-1. Clone the repository
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/nupurkarpe/upskillify.git
 cd upskillify
 
-2. Install Dependencies
+**2. Install Dependencies**
 
 ```bash
 # For server
@@ -36,7 +36,7 @@ npm install
 cd ../client
 npm install
 
-3. Environment Variables
+**3. Environment Variables**
 Create a .env file in the server directory and add the following variables:
 
 ```bash
@@ -55,7 +55,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
 WEBHOOK_ENDPOINT_SECRET=your_stripe_webhook_secret
 
-4. Run the Application
+**4. Run the Application**
 Start the Server:
 
 ```bash
