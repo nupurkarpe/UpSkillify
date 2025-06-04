@@ -1,4 +1,4 @@
-# UpSkillify - Learning Management System
+# UpSkillify : See Beyond , Learn Beyond
 UpSkillify is a modern Learning Management System (LMS) built with the MERN stack, designed to help academies and institutions create, manage, and deliver online courses effectively.
 
 ## Features
@@ -6,7 +6,7 @@ UpSkillify is a modern Learning Management System (LMS) built with the MERN stac
 - Student dashboard with course enrollment and progress tracking
 - Authentication for students and admins
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend**: React.js, Tailwind CSS, Shadcn/UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB Atlas
@@ -34,7 +34,7 @@ cd server
 npm install
 
 # For client
-cd ../client
+cd client
 npm install
 ```
 
@@ -70,5 +70,5 @@ npm run dev
 Start the Client (in a new terminal):
 ```bash
 cd client
-npm start
+npm run dev
 ```
