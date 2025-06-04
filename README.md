@@ -22,7 +22,7 @@ UpSkillify is a modern Learning Management System (LMS) built with the MERN stac
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/nupurkarpe/upskillify.git
+git clone https://github.com/nupurkarpe/UpSkillify.git
 cd upskillify
 ```
 
