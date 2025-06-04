@@ -25,10 +25,9 @@ UpSkillify is a modern Learning Management System (LMS) built with the MERN stac
 git clone https://github.com/nupurkarpe/upskillify.git
 cd upskillify
 
- 2. Install Dependencies
+2. Install Dependencies
 
 ```bash
-
 # For server
 cd server
 npm install
@@ -40,7 +39,7 @@ npm install
 3. Environment Variables
 Create a .env file in the server directory and add the following variables:
 
-```
+```bash
 #Mongodb setup
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
@@ -58,6 +57,7 @@ WEBHOOK_ENDPOINT_SECRET=your_stripe_webhook_secret
 
 4. Run the Application
 Start the Server:
+
 ```bash
 cd server
 npm run dev
